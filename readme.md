@@ -186,3 +186,5 @@
 
 - **_*col-sm-4*_** --> gives columns width of **4/12** when the **screen size is small** and occupies **Full width** when the screen size is **larger than sm size**|
 - **_*d-md-none*_** --> display none when the screen size is **smaller than md**.
+
+## Topics Seen
